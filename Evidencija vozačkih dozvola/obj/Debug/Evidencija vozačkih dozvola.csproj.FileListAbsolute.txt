@@ -1,0 +1,8 @@
+C:\Users\Gvozdo\source\repos\OOP\Evidencija vozačkih dozvola\Evidencija vozačkih dozvola\bin\Debug\Evidencija vozačkih dozvola.exe.config
+C:\Users\Gvozdo\source\repos\OOP\Evidencija vozačkih dozvola\Evidencija vozačkih dozvola\bin\Debug\Evidencija vozačkih dozvola.exe
+C:\Users\Gvozdo\source\repos\OOP\Evidencija vozačkih dozvola\Evidencija vozačkih dozvola\bin\Debug\Evidencija vozačkih dozvola.pdb
+C:\Users\Gvozdo\source\repos\OOP\Evidencija vozačkih dozvola\Evidencija vozačkih dozvola\obj\Debug\Evidencija vozačkih dozvola.csproj.AssemblyReference.cache
+C:\Users\Gvozdo\source\repos\OOP\Evidencija vozačkih dozvola\Evidencija vozačkih dozvola\obj\Debug\Evidencija vozačkih dozvola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gvozdo\source\repos\OOP\Evidencija vozačkih dozvola\Evidencija vozačkih dozvola\obj\Debug\Evidencija vozačkih dozvola.csproj.CoreCompileInputs.cache
+C:\Users\Gvozdo\source\repos\OOP\Evidencija vozačkih dozvola\Evidencija vozačkih dozvola\obj\Debug\Evidencija vozačkih dozvola.exe
+C:\Users\Gvozdo\source\repos\OOP\Evidencija vozačkih dozvola\Evidencija vozačkih dozvola\obj\Debug\Evidencija vozačkih dozvola.pdb
